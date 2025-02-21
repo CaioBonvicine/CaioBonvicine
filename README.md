@@ -3,5 +3,4 @@
 -> Sou um estudante de engenharia de computação em graduação do INATEL.
 
 ### Aqui estão exemplos das linguagens que eu possuo conhecimento:
-src = <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
