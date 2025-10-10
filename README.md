@@ -29,9 +29,3 @@ Send me a message on:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaioBonvicine&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</div>
