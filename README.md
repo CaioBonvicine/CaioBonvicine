@@ -1,7 +1,9 @@
 # 👋 Greetings!  
 ## My name is **Caio Pereira Bonvicine**! 👍
 
-I’m a **Computer Engineering undergraduate student** at **INATEL**.
+I’m a **Computer Engineering student** at **INATEL**, currently in my 7th semester, and an active member of the **RobotBulls** robotics team. I’m passionate about technology, software engineering, and autonomous systems, with interests ranging from full-stack development to robotics and embedded solutions.  
+
+At the moment, I’m looking for my first internship opportunity where I can continue improving my technical skills and contribute to real-world projects.
 
 ---
 
